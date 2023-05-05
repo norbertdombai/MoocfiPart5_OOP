@@ -1,2 +1,2 @@
 # MoocfiPart5_OOP
-Learning object-oriented programming
+Practicing object-oriented programming
